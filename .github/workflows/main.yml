@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - run: chmod +x AdityaServer
-    - run: sudo ./AdityaServer 91.108.13.20 32002 69
+    - run: sudo ./AdityaServer 91.108.17.17 32003 69
